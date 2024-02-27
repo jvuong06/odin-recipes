@@ -1,2 +1,2 @@
 # Recipes Website
-Create a recipe website using the bare foundations from The Odin Project.
+Create a recipe website in order to practice links, images, and file paths.
